@@ -1,2 +1,3 @@
 # Data_Scientists_Salary
- This repo cotains data science project to predict salaries of data scientist from scrath
+ This repo contains files to predict salaries of data scientist from scratch
+ Contains web scraping,EDA,model development and production
